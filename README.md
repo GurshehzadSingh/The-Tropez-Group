@@ -6,7 +6,7 @@ The Tropez Group is a website concerned with solving the struggles of clients wh
 - Clone the project.
 - Go to the project directory and run:
 
-### `npm init`
+### `npm install`
 
 -It will install the node modules required for this project.
 
