@@ -1,4 +1,5 @@
 # The Tropez Group
+The Tropez Group is a website concerned with solving the struggles of clients whether it's Education , Travel or Trade.
 
 ## Installation Instructions
 
