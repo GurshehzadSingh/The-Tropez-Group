@@ -6,6 +6,12 @@ The Tropez Group is a website concerned with solving the struggles of clients wh
 - Clone the project.
 - Go to the project directory and run:
 
+### `npm init`
+
+-It will install the node modules required for this project.
+
+-Run the following command:
+
 ### `npm start`
 
 - It will run the app in the development mode.
