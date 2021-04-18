@@ -1,0 +1,2 @@
+List below all the components that you observe from the design file. 
+Also mention your name along with the components you wrote.
