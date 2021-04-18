@@ -1,4 +1,5 @@
 # The Tropez Group
+
 The Tropez Group is a website concerned with solving the struggles of clients whether it's Education , Travel or Trade.
 
 ## Installation Instructions
@@ -32,3 +33,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+### `Link of the Figma File`
+
+[Tropez Figma Design](https://www.figma.com/file/Cs6HPBBi43JT2l1JTSRHbF/Home?node-id=0%3A1)
